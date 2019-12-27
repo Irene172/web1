@@ -1,0 +1,43 @@
+.buscador{
+    background-color:rgb(255,0,0);
+}
+.busqueda{
+    border: seashell;
+}
+.fondo{
+    background-color:cornsilk;
+}
+.titulo{
+    font-family: fantasy;
+   
+    
+
+}
+.jumbotron1{
+    background-image:url("../img/fondo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 300px;
+    opacity: 0.5;
+   filter: alpha(opacity=20);
+  }
+.jumbotronh1 {
+    font-family: 'Vast Shadow', cursive;
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 1em;
+    opacity: 1;
+  
+  }
+  .recomendaciones{
+    color: rgb(242, 247, 0);
+  }
+  .abajo{
+      background: black;
+  }
+  .follow{
+    font-family: 'Vast Shadow', cursive;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+      
+  }

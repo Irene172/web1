@@ -1,0 +1,40 @@
+body
+{
+        font-family: 'Trebuchet Ms', Arial, sans-serif;
+        background-color: cornsilk;}
+.imgvodafone{
+    width: 100px;
+    height:100px;
+}
+.titular{
+    font-family: 'Trebuchet Ms', Comic San, sans-serif;
+}
+.jumbotron1{
+    background-image: url("../img/series.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 300px;
+    opacity: 0.5;
+    filter: alpha(opacity=20);
+}
+.jumbotronh1{
+    font-family: "Vast Shadow", cursive;
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 1em;
+    opacity: 1;
+}
+
+.abajo{
+    background:  black;
+}
+
+.joinus{
+    color: white
+}
+.buscador{
+    background-color:rgb(255,0,0);
+}
+.busqueda{
+    border: seashell;
+}

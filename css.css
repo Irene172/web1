@@ -1,0 +1,25 @@
+
+     .buscador{
+        background-color:rgb(255,0,0);
+    }
+    .busqueda{
+        border: seashell;
+    }
+    .fondo{
+        background-color:cornsilk;
+    }
+    .titulo{
+        font-family: fantasy;
+       
+        
+    
+    }
+    .abajo{
+        background: black;
+    }
+    .follow{
+      font-family: 'Vast Shadow', cursive;
+      font-size: 60px;
+      color: rgb(255, 255, 255);
+        
+    }
